@@ -1,7 +1,7 @@
 {
+  "parser_version": "v1.0.0",
   "location": null,
   "lang": "xresources",
   "url": "https://github.com/ValdezFOmar/tree-sitter-xresources",
-  "semver": true,
-  "parser_version": "v1.0.0"
+  "semver": true
 }
